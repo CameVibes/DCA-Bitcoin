@@ -31,8 +31,6 @@ The dollar value of the accumulated Bitcoin was then calculated using the closin
 
 ## Conclusions
 
-The following recomendations could be present to the stakeholders, this recomendations are based on the feature importances of the Random Forest Model: (`last_evaluation`, `number_project`, `tenure`, `overworked`), to retain employees:
-
 * Adopting an investment strategy that allocates 10% of the average full-time US employee's salary to the BTC cryptocurrency via Dollar-Cost Averaging (DCA) can really have powerful impact on financial future of the investor. 
 * It has been concluded that the frequency of DCA purchases —whether daily, weekly, or monthly— does not show a substancial difference in investment performance.
 * Our findings further indicate that the Return on Investment (ROI) surpasses 2000% after a period of 5 years, derived from the unrealized gains on the final day of purchases across each investment interval (daily, weekly, monthly). This demonstrates the potential of a substantial long-term profit margin.
