@@ -4,7 +4,7 @@
 
 This project undertakes an exploration of the effectiveness of a Dollar Cost Averaging (DCA) investment strategy applied to the cryptocurrency asset, Bitcoin. The DCA strategy involves dividing a fixed amount of money into equal parts and investing those parts at regular intervals, regardless of the price of the asset. The project uses historical data from the years 2013 to 2018 to determine whether a DCA strategy can potentially mitigate the impact of volatility and enhance overall returns when investing in Bitcoin.
 
-**The complete report was published on [Rpubs](https://rpubs.com/camello_7/994438)
+The complete report was published on [Rpubs](https://rpubs.com/camello_7/994438)
 
 ## Buisness understanding
 
