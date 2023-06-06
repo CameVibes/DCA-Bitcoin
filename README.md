@@ -4,6 +4,8 @@
 
 This project undertakes an exploration of the effectiveness of a Dollar Cost Averaging (DCA) investment strategy applied to the cryptocurrency asset, Bitcoin. The DCA strategy involves dividing a fixed amount of money into equal parts and investing those parts at regular intervals, regardless of the price of the asset. The project uses historical data from the years 2013 to 2018 to determine whether a DCA strategy can potentially mitigate the impact of volatility and enhance overall returns when investing in Bitcoin.
 
+** The complete report was published on [Rpubs](https://rpubs.com/camello_7/994438)
+
 ## Buisness understanding
 
 The investment strategies under analysis involve the allocation of a fixed percentage of an average US full-time employee's income. The average monthly income was calculated to be approximately $5,083.82 [Statista](https://www.statista.com/statistics/612519/average-annual-real-wages-united-states/), and it was determined that 10% of this income (or about $508.38) would be used to execute the DCA strategy. The investment strategies were based on different timeframes: monthly, weekly, and daily. The monthly strategy involved making a single investment of the entire budget at the start of each month, while the weekly and daily strategies involved making 4 weekly investments of $127.10 and 365 daily investments of $16.95. respectively.
